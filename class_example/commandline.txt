@@ -1,0 +1,3 @@
+ 
+
+g++ -fPIC -shared -o libfoo.so Foo.cpp  
